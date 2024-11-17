@@ -12,3 +12,13 @@ fsdfsfsefefwefefwsefasecasdcascascaca
 
 * sfjsfj
 * -0efefews
+
+![alt text](https://github.com/AshimAlFarizi/Project_Data_Engineering_SQL/blob/main/ADVANCED/WhatsApp%20Image%202024-11-15%20at%2010.49.14_9775a6dd.jpg?raw=true)
+<br><br>
+
+ffwe
+
+<img src="ADVANCED/WhatsApp Image 2024-11-15 at 10.49.14_9775a6dd.png">
+
+![alt text](https://github.com/AshimAlFarizi/Project_Data_Engineering_SQL/blob/dbb66584ea85d5a9b8e0a2db0c1ce7bb9710b396/ADVANCED/WhatsApp%20Image%202024-11-15%20at%2010.49.14_9775a6dd.jpg?raw=true)
+
